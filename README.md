@@ -16,9 +16,8 @@
 </p>
 ---
 ### 📍 My stats
+[![PatienceLee GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeonglee353&show_icons=true&theme=algolia&custom_title=PatienceLee%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesy353)](https://solved.ac/leesy353)
-
-[![PatienceLee GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeonglee353&show_icons=true&theme=algolia&custom_title=PatienceLee%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyeonglee353&layout=compact&theme=tokyonight)
