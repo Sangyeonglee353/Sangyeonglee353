@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
----
+
 ### 📍 My stats
 
 [![PatienceLee GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeonglee353&show_icons=true&theme=algolia&custom_title=PatienceLee%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats) 
