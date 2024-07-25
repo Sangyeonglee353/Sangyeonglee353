@@ -1,19 +1,76 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SangyeongLee&fontSize=70&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=25&pause=1000&color=048F43&vCenter=true&width=500&lines=%F0%9F%8C%BB+Hello.+I'm+a+Needs+Solver.)](https://git.io/typing-svg)
 
-<h3 align="center">🛠 Technology Stack 🛠</h3>
+<hr/>
 
-<p align="center"> Techs that I've used at least once </p>
+### **Needs Solver**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp -->
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+- I'm a developer who makes your needs a reality.
+
+### **Experiences**
+
+#### [Saytothem]
+
+- 2020.03 - 2021.02
+- ‘Say to Them’ online shopping mall maintenance
+- ‘[전국대학구매관리자협의회](http://kcuppmmall.kr/)’ Construction and maintenance of closed mall
+  - [Site Info](https://www.notion.so/68a681ce53904b1b9148897c931eb34a?pvs=21)
+- ‘약국닷컴’ Construction and maintenance of closed mall
+  - [Site Info](https://www.notion.so/8a43bffd223442e4aac396c541ac6a17?pvs=21)
+
+#### [KOICA]
+
+- 2017.10 - 2019.10
+- Planning and execution of Zamboangita Elementary School computer education environment improvement project
+- Teacher of Computer science
+- Establishment and stabilization of internet network within ‘school’
+
+#### [Army]
+
+- Specialist Sergeant
+- 2015.03 - 2017.06
+- Maintenance of computer network within unit
+- Server backup and DB management
+- Command and control room network construction
+
+### **Languages**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,php,nodejs"/>
+  </a>
 </p>
+
+### **Frameworks**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,electron,next,pytorch,tensorflow,scikitlearn,flask,fastapi,selenium"/>
+   </a>
+</p>
+
+### **Dev Tools**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma,git,githubactions,linux,vscode,atom,anaconda"/>
+  </a>
+</p>
+
+### **Other Tools**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,figma,xd,sketchup,pr"/>
+  </a>
+</p>
+
+### **Github Stat**
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=2077&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangyeonglee353&theme=2077&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangyeonglee353&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangyeonglee353&theme=2077&utcOffset=8)
 
 <!-- ### 📍 My stats
 
