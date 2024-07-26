@@ -11,23 +11,25 @@
 #### [Saytothem]
 
 - 2020.03 - 2021.02
-- ‘Say to Them’ online shopping mall maintenance
-- ‘[전국대학구매관리자협의회](http://kcuppmmall.kr/)’ Construction and maintenance of closed mall
-  - [Site Info](https://www.notion.so/68a681ce53904b1b9148897c931eb34a?pvs=21)
-- ‘약국닷컴’ Construction and maintenance of closed mall
-  - [Site Info](https://www.notion.so/8a43bffd223442e4aac396c541ac6a17?pvs=21)
+- Frontend Developer
+- online shopping mall construction and maintenance
+  - ‘Say to Them’
+  - ‘[전국대학구매관리자협의회](http://kcuppmmall.kr/)’
+    - [Site Info](https://www.notion.so/68a681ce53904b1b9148897c931eb34a?pvs=21)
+  - ‘약국닷컴’
+    - [Site Info](https://www.notion.so/8a43bffd223442e4aac396c541ac6a17?pvs=21)
 
 #### [KOICA]
 
 - 2017.10 - 2019.10
+- Computer Teacher/Volunteer
 - Planning and execution of Zamboangita Elementary School computer education environment improvement project
-- Teacher of Computer science
 - Establishment and stabilization of internet network within ‘school’
 
 #### [Army]
 
-- Specialist Sergeant
 - 2015.03 - 2017.06
+- Specialist Sergeant
 - Maintenance of computer network within unit
 - Server backup and DB management
 - Command and control room network construction
