@@ -2,11 +2,11 @@
 
 <hr/>
 
-### <span style="color:green">**Needs Solver**</span>
+### <p>$\textbf{\textsf{\color{#008000}Needs\ Solver}}$</p>
 
 - I'm a developer who makes your needs a reality.
 
-### <ppan style="color:green">**Experiences**</span>
+### <p>$\textbf{\textsf{\color{#008000}Experiences}}$</p>
 
 #### [Saytothem]
 
@@ -34,7 +34,7 @@
 - Server backup and DB management
 - Command and control room network construction
 
-### <span style="color:green">**Languages**</span>
+### <p>$\textbf{\textsf{\color{#008000}Languages}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### <span style="color:green">**Frameworks**</span>
+### <p>$\textbf{\textsf{\color{#008000}Frameworks}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
    </a>
 </p>
 
-### <span style="color:green">**Dev Tools**</span>
+### <p>$\textbf{\textsf{\color{#008000}Dev Tools}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -58,7 +58,7 @@
   </a>
 </p>
 
-### <span style="color:green">**Other Tools**</span>
+### <p>$\textbf{\textsf{\color{#008000}Other Tools}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-### <span style="color:green">**Github Stat**</span>
+### <p>$\textbf{\textsf{\color{#008000}Github Stat}}$</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
