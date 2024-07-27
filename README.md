@@ -14,9 +14,9 @@
 - Frontend Developer
 - online shopping mall construction and maintenance
   - ‘Say to Them’
-  - ‘[전국대학구매관리자협의회](http://kcuppmmall.kr/)’
+  - [전국대학구매관리자협의회](http://kcuppmmall.kr/)
     - [Site Info](https://www.notion.so/68a681ce53904b1b9148897c931eb34a?pvs=21)
-  - ‘약국닷컴’
+  - [약국닷컴](https://xn--3e0b896b.com/)
     - [Site Info](https://www.notion.so/8a43bffd223442e4aac396c541ac6a17?pvs=21)
 
 #### [KOICA]
