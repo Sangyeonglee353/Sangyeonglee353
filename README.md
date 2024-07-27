@@ -6,7 +6,7 @@
 
 - I'm a developer who makes your needs a reality.
 
-### <p>$\normalsize{\textbf{\textsf{\color{#008000}Experiences}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Experiences}}}$</p>
 
 #### [Saytothem]
 
@@ -34,7 +34,7 @@
 - Server backup and DB management
 - Command and control room network construction
 
-### <p>$\normalsize{\textbf{\textsf{\color{#008000}Languages}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Languages}}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### <p>$\normalsize{\textbf{\textsf{\color{#008000}Frameworks}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Frameworks}}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
    </a>
 </p>
 
-### <p>$\normalsize{\textbf{\textsf{\color{#008000}Dev Tools}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Dev Tools}}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -58,7 +58,7 @@
   </a>
 </p>
 
-### <p>$\normalsize{\textbf{\textsf{\color{#008000}Other Tools}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Other Tools}}}$</p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-### <p>$\normalsize{\textbf{\textsf{\color{#008000}Github Stat}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Github Stat}}}$</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
