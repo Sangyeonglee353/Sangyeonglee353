@@ -2,7 +2,7 @@
 
 <hr/>
 
-<p>$\normalsize{\textbf{\textsf{\color{#008000}Needs\ Solver}}}$</p>
+### <p>$\large{\textbf{\textsf{\color{#008000}Needs\ Solver}}}$</p>
 
 - I'm a developer who makes your needs a reality.
 
