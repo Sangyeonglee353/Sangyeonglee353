@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=25&pause=1000&color=048F43&vCenter=true&width=500&lines=%F0%9F%8C%BB+Hello.+I'm+a+Needs+Solver.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=25&pause=1000&color=008000&vCenter=true&width=500&lines=%F0%9F%8C%BB+Hello.+I'm+a+Needs+Solver.)](https://git.io/typing-svg)
 
 <hr/>
 
@@ -68,11 +68,11 @@
 
 ### <span style="color:green">**Github Stat**</span>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=2077&exclude=Jupyter%20Notebook)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangyeonglee353&theme=2077&exclude=Jupyter%20Notebook)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangyeonglee353&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangyeonglee353&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangyeonglee353&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangyeonglee353&theme=github_dark&utcOffset=8)
 
 <!-- ### 📍 My stats
 
