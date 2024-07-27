@@ -2,11 +2,11 @@
 
 <hr/>
 
-### **Needs Solver**
+### <span style="color:green">**Needs Solver**</span>
 
 - I'm a developer who makes your needs a reality.
 
-### **Experiences**
+### <ppan style="color:green">**Experiences**</span>
 
 #### [Saytothem]
 
@@ -34,7 +34,7 @@
 - Server backup and DB management
 - Command and control room network construction
 
-### **Languages**
+### <span style="color:green">**Languages**</span>
 
 <p>
   <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### **Frameworks**
+### <span style="color:green">**Frameworks**</span>
 
 <p>
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
    </a>
 </p>
 
-### **Dev Tools**
+### <span style="color:green">**Dev Tools**</span>
 
 <p>
   <a href="https://skillicons.dev">
@@ -58,7 +58,7 @@
   </a>
 </p>
 
-### **Other Tools**
+### <span style="color:green">**Other Tools**</span>
 
 <p>
   <a href="https://skillicons.dev">
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-### **Github Stat**
+### <span style="color:green">**Github Stat**</span>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=2077&exclude=Jupyter%20Notebook)
