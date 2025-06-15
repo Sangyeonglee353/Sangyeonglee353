@@ -69,10 +69,10 @@
 ### <p>$\Large{\textbf{\textsf{\color{#008000}Github Stat}}}$</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangyeonglee353&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangyeonglee353&theme=github_dark&exclude=Jupyter%20Notebook)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangyeonglee353&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangyeonglee353&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangyeonglee353&theme=github_dark&utcOffset=8)-->
 
 <!-- ### 📍 My stats
 
