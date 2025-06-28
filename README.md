@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=25&pause=1000&color=008000&vCenter=true&width=500&lines=%F0%9F%8C%BB+Hello.+I'm+a+Needs+Solver.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=25&pause=1000&color=008000&vCenter=true&width=500&lines=%F0%9F%8C%BB+Hello.+I'm+a+Problem+Solver.)](https://git.io/typing-svg)
 
 <hr/>
 
-### <p>$\Large{\textbf{\textsf{\color{#008000}Needs\ Solver}}}$</p>
+### <p>$\Large{\textbf{\textsf{\color{#008000}Problem\ Solver}}}$</p>
 
 - I'm a developer who makes your needs a reality.
 
